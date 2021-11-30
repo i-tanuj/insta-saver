@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "InstaSaver",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}

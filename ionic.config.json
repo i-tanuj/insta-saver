@@ -1,0 +1,8 @@
+{
+  "name": "InstaSaver",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "1d1d75fa"
+}
